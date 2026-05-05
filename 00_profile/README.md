@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
+![AI](https://img.shields.io/badge/AI-Engineer-orange)
 # 👋 Hi, I'm Muhammad Usman
 
 ## 🚀 AI Engineer in Progress
